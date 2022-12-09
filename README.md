@@ -1,1 +1,1 @@
-opi-example-project -
+opi-example-project v1.0 -
